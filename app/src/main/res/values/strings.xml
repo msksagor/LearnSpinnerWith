@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LearnSpinnerWith</string>
+    <string-array name="country">
+        <item>Bangladesh</item>
+        <item>Dhaka</item>
+        <item>Tangail</item>
+        <item>Ghatail</item>
+    </string-array>
+
+    <string-array name="des">
+        <item>Country Name</item>
+        <item>Division Name</item>
+        <item>Distric</item>
+        <item>Thana</item>
+    </string-array>
+</resources>
